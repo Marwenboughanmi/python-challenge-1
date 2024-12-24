@@ -1,5 +1,5 @@
 # Menu dictionary
-menu.py  = {
+menu.py = {
     "Snacks": {
         "Cookie": .99,
         "Banana": .69,
