@@ -80,7 +80,7 @@ while True:
 
     # Exit the loop if user typed 'q'
     if menu_category == 'q':
-        break
+        break 
     # Check if the customer's input is a number
     elif menu_category.isdigit():
         # Check if the customer's input is a valid option
