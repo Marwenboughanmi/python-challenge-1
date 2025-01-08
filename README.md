@@ -16,6 +16,28 @@
 15-Display the heading for the sub-menu            
 16-Initialize a menu item counter            
 17-Print out the menu options from the menu_category_name
+
+
+This is the menu :
+
+
+#Snacks	#Price
+Cookie	$0.99
+Banana	$0.69
+Apple	$0.49
+Granola bar	$1.99
+
+
+#Meals	#Price
+Burrito	$4.49
+Teriyaki Chicken	$9.99
+Sushi	$7.49
+Pad Thai	$6.99
+Cheese Pizza	$8.99
+Pepperoni Pizza	$10.99
+Vegetarian Pizza	$9.99
+Beef Burger	$7.49
+Chicken Burger	$8.49
             
             
 # Check if the menu item is a dictionary to handle differently
